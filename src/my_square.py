@@ -1,8 +1,8 @@
 
-def my_square(x):
+def my_square(z):
     """ Takes a value and squares it.
         Uses the ** exponent operator.
     """
-    return (x**2)
+    return (z*z)
 
-print (my_square(4))
+print (my_square(24))
