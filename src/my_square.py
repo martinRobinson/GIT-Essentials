@@ -6,6 +6,8 @@ def my_square(y):
     return (y**2)
 
 def my_square2 (x):
+    """ Use the * operator to square the input variable.
+    """
     return (x * x)
 
 
